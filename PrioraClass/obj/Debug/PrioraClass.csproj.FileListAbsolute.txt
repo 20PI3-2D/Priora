@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\bin\Debug\PrioraClass.exe.config
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\bin\Debug\PrioraClass.exe
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\bin\Debug\PrioraClass.pdb
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\obj\Debug\PrioraClass.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\obj\Debug\PrioraClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\obj\Debug\PrioraClass.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\obj\Debug\PrioraClass.exe
+C:\Users\Вадим\Desktop\PrioraClass\PrioraClass\obj\Debug\PrioraClass.pdb
